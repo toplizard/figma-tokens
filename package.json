@@ -1,0 +1,27 @@
+{
+  "name": "figma-tokens",
+  "version": "1.0.0",
+  "description": "atomic-components",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toplizard/figma-tokens.git"
+  },
+  "keywords": [
+    "figma-tokens",
+    "style-components"
+  ],
+  "author": "Irene Forssell Nilsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toplizard/figma-tokens/issues"
+  },
+  "homepage": "https://github.com/toplizard/figma-tokens#readme",
+  "devDependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
