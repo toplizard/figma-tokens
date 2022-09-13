@@ -7,10 +7,6 @@
     "blue": {
       "value": "#3443c2",
       "type": "color"
-    },
-    "ff": {
-      "value": "{padding}",
-      "type": "sizing"
     }
   },
   "$themes": [],
