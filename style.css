@@ -1,0 +1,10 @@
+@import "build/css/_variables.css";
+
+button {
+  background-color: var(--global-colors-green-700);
+  color: var(--global-colors-white);
+  border: none;
+  padding: calc(var(--global-spacing-md) * 0.0625rem);
+  font-family: var(--global-font-families-heading);
+
+}
