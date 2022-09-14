@@ -24,5 +24,8 @@
   "devDependencies": {
     "sass": "^1.54.9",
     "style-dictionary": "^3.7.1"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security"
   }
 }
